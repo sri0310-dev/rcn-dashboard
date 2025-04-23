@@ -4,4 +4,5 @@ plotly
 prophet
 requests
 python-dotenv
-openpyxl
+openpyxl==3.1.5
+
