@@ -4,4 +4,4 @@ plotly
 prophet
 requests
 python-dotenv
-**openpyxl**
+openpyxl
