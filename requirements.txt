@@ -1,8 +1,8 @@
 streamlit
 pandas
 plotly
-prophet
+prophet==1.1.6
 requests
 python-dotenv
-openpyxl==3.1.5
-
+openpyxl
+cmdstanpy
